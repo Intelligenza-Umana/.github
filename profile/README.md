@@ -8,9 +8,9 @@ Our interests include backend engineering, cybersecurity, data integrity, algori
 
 ## Projects
 
-- [Learning Ledger](https://github.com/fabiozagaria/learning-ledger) — a local evidence ledger for AI-assisted learning.
-- [Spring Security Advisor](https://github.com/fabiozagaria/spring-security-advisor) — a Spring Boot security review assistant; its score is not a security certification.
-- [Project Lifecycle Skill](https://github.com/fabiozagaria/project-lifecycle-skill) — a prototype for maintaining project context and handoffs.
+- [Learning Ledger](https://github.com/fabiozagaria/iu-learning-ledger) — a local evidence ledger for AI-assisted learning.
+- [Spring Security Advisor](https://github.com/fabiozagaria/iu-spring-security-advisor) — a Spring Boot security review assistant; its score is not a security certification.
+- [Project Lifecycle Skill](https://github.com/fabiozagaria/iu-project-lifecycle-skill) — a prototype for maintaining project context and handoffs.
 
 Projects have independent repositories and maturity levels. See the [official project registry](https://github.com/fabiozagaria/intelligenza-umana/blob/main/docs/PROJECT_REGISTRY.md) for canonical URLs and status. A project label is not a cryptographic signature; release verification is still being developed.
 
