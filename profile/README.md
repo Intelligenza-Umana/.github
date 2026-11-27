@@ -22,3 +22,13 @@ Start with the [foundation](https://github.com/Intelligenza-Umana/intelligenza-u
 For vulnerability reports, please follow the [private reporting guidance](https://github.com/Intelligenza-Umana/intelligenza-umana/blob/main/SECURITY.md). General enquiries: [intelligenzaumana.lab@gmail.com](mailto:intelligenzaumana.lab@gmail.com).
 
 [Website](https://intelligenza-umana-web.vercel.app/) · [Foundation](https://github.com/Intelligenza-Umana/intelligenza-umana) · [Project registry](https://github.com/Intelligenza-Umana/intelligenza-umana/blob/main/docs/PROJECT_REGISTRY.md)
+
+## Find your first contribution
+
+Students, junior developers and experienced engineers are welcome. You do not need to be an organization member to contribute.
+
+- [Good first issues](https://github.com/search?q=org%3AIntelligenza-Umana+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues): small, approachable tasks.
+- [Help wanted](https://github.com/search?q=org%3AIntelligenza-Umana+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22&type=issues): testing, documentation and engineering tasks.
+- [Propose an experiment](https://github.com/Intelligenza-Umana/intelligenza-umana/issues/5): bring a concrete problem or idea.
+
+Choose an issue, comment with your intended approach, and discuss scope before submitting a pull request. Contributions may include documentation, reproducible tests, bug reports and code. Review is voluntary and depends on maintainer availability. If you know someone who might enjoy a task, share its issue link with them.
