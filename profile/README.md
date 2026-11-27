@@ -17,7 +17,7 @@ Projects have independent repositories and maturity levels. See the [official pr
 
 ## Contribute
 
-Join the [Intelligenza Umana Discord community](https://discord.gg/fMRBCNgHb) to meet contributors and follow community discussions.
+Join the [Intelligenza Umana Discord community](https://discord.gg/uP3D3ybbmT) to meet contributors and follow community discussions.
 
 Start with the [foundation](https://github.com/Intelligenza-Umana/intelligenza-umana), [contribution guide](https://github.com/Intelligenza-Umana/intelligenza-umana/blob/main/CONTRIBUTING.md) and [engineering standard](https://github.com/Intelligenza-Umana/intelligenza-umana/blob/main/docs/ENGINEERING_STANDARD.md). Open an issue in the relevant repository to discuss a concrete problem. No seniority threshold applies; review depends on available capacity.
 
